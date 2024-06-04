@@ -23,25 +23,25 @@ Project Files
 
 Data Analysis HR.sql: SQL script for data cleaning, transformation, and analysis.
 final dashboard.pbix: Power BI file containing the interactive dashboard visualizing the analysis results.
-README.md: This file, providing an overview of the project.
+README.md: This file, provides an overview of the project.
 Getting Started
 
 Set Up Database:
 
 Create the projects_hr database.
-Import the hr.csv data into the database.
+Import the Human Resources.csv data into the database.
 Run SQL Analysis:
 
-Execute the hr_analysis.sql script in your preferred SQL environment
+Execute the Data Analysis HR.sql script in your preferred SQL environment
 Open Power BI Dashboard:
 
-Open the hr_dashboard.pbix file in Power BI Desktop.
+Open the final dashboard.pbix file in Power BI Desktop.
 Refresh the data connection to ensure the dashboard reflects the latest analysis results.
 Key Findings (Preliminary)
 
 Gender Breakdown: The company has a higher percentage of male employees.
-Turnover: The [Department Name] department has the highest termination rate.
-Growth: The company experienced significant employee growth in [Year].
+Turnover: The  department has the highest termination rate.
+Growth: The company experienced significant employee growth in .
 
 Dashboard Highlights
 
