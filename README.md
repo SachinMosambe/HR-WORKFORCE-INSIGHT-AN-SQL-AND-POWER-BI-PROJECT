@@ -18,10 +18,10 @@ How has the company's employee count changed over time based on hire and termina
 What is the tenure distribution for each department?
 Data Source
 
-hr.csv: The dataset containing employee information like demographics, job details, hire/termination dates, and more.
+Data Analysis HR.csv: The dataset containing employee information like demographics, job details, hire/termination dates, and more.
 Project Files
 
-hr_analysis.sql: SQL script for data cleaning, transformation, and analysis.
+Data Analysis HR.sql: SQL script for data cleaning, transformation, and analysis.
 hr_dashboard.pbix: Power BI file containing the interactive dashboard visualizing the analysis results.
 README.md: This file, providing an overview of the project.
 Getting Started
